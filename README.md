@@ -1,4 +1,5 @@
 # vue_auth_2fa_gmail
+About: This is Front End web app based on Vue 2 , that works with backend django_view_auth_2FA_gmail
 
 ## Project setup
 ```
